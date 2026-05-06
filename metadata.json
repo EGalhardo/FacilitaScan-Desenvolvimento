@@ -1,0 +1,8 @@
+{
+  "name": "FacilitaScan Desenvolvimento",
+  "description": "Uma solução moderna e eficiente para digitalização e extração de dados de documentos, com suporte a modelos personalizados e processamento offline.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
